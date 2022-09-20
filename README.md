@@ -2,7 +2,8 @@
 - 👀 I’m interested in competitive programming.
 - 🌱 I’m currently learning C++.
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me via twitter 
+- 📫 How to reach me via twitter link is given below
+- https://twitter.com/Ujj60118080 
 
 <!---
 ujjwalsha/ujjwalsha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
